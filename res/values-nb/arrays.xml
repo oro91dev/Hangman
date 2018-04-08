@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="array_word">
+        <item >OST</item>
+        <item >SMULTRING</item>
+        <item >SJOKOLADE</item>
+        <item >SOPP</item>
+        <item >PEPPERKAKE</item>
+        <item >HONNING</item>
+        <item >SMØRBRØD</item>
+        <item >KAFFE</item>
+        <item >KJEKS</item>
+        <item >KJØTT</item>
+        <item >SKJERM</item>
+        <item >BURSDAG</item>
+        <item >BRUS</item>
+        <item >JUL</item>
+        <item >NORGE</item>
+        <item >SVERIGE</item>
+        <item >POLEN</item>
+        <item >ENGLAND</item>
+        <item >TYSKLAND</item>
+        <item >OVERSETTE</item>
+        <item >ITALIA</item>
+        <item >SPANIA</item>
+        <item >UKE</item>
+        <item >VAKKER</item>
+        <item >STERK</item>
+        <item >FJELL</item>
+        <item >VARM</item>  
+    </string-array>
+    
+</resources>

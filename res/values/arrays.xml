@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   	    <string-array name="array_word">
+        <item>CHEESE</item>
+        <item>DOUGHNUT</item>
+        <item>CHOCOLATE</item>
+        <item>MUSHROOMS</item>
+        <item>GINGERBREAD</item>
+        <item>HONEY</item>
+        <item>SANDWICH</item>
+        <item>COFFEE</item>
+        <item>COOKIES</item>
+        <item>MEAT</item>
+        <item>MONITOR</item>
+        <item>BIRTHDAY</item>
+        <item>SODA</item>
+        <item>CHRISTMAS</item>
+        <item>NORWAY</item>
+        <item>SWEDEN</item>
+        <item>POLAND</item>
+        <item>ENGLAND</item>
+        <item>GERMANY</item>
+        <item>TRANSLATE</item>
+        <item>ITALY</item>
+        <item>SPAIN</item>
+        <item>WEEK</item>
+        <item>BEATIFUL</item>
+        <item>STRONG</item>
+        <item>MOUNTAIN</item>
+        <item>WARM</item>
+    </string-array>
+
+</resources>

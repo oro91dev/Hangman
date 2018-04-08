@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#AAC6FF" >
+
+    <Button
+        android:id="@+id/btneng"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="80dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/custom_button"
+        android:text="English"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/btnnor"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="80dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/custom_button"
+        android:text="Norsk"
+        android:textColor="#FFFFFF" />
+
+</LinearLayout>

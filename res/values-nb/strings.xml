@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hangieman</string>
+    <string name="action_settings">Instillinger</string>
+    <string name="start_game">Spill</string>
+    <string name="rules">Regler</string>
+    <string name="quit">Avslutt</string>
+    <string name="textrules">1) Gjett på en bokstav\n2) Gjett på en bokstav til\n3) fortsett inntil hele ordet er avdekket, ellers så blir du hengt\n4) du blir hengt etter 6 feil gjetninger\n
+5) lykke til!
+    </string>
+    <string name="Labelrules">Regler</string>
+    <string name="toastback">Tar deg tilbake til menyen</string>
+    <string name="hrules">Regler for Hangieman:</string>
+    <string name="back">Tilbake</string>
+    <string name="labelgame">Spill</string>
+    <string name="yes">JA</string>
+    <string name="no">NEI</string>
+    <string name="language">Språk</string>
+    <string name="mystword">ORDET ER:</string>
+    <string name="txttry">Du taper prøv igjen?</string>
+    <string name="txttot">POENGSUM:</string>
+    <string name="txttotwrg">TAP:</string>
+    <string name="win">Du vinner\nNeste ord?</string>
+    <string name="swipe">Dra i knappene fra høyre til venstre for å få tak i flere bokstaver</string>
+    
+</resources>
